@@ -1,0 +1,10 @@
+E:\examen\examen\bin\Debug\examen.exe.config
+E:\examen\examen\bin\Debug\examen.exe
+E:\examen\examen\bin\Debug\examen.pdb
+E:\examen\examen\obj\Debug\examen.csproj.AssemblyReference.cache
+E:\examen\examen\obj\Debug\examen.Form2.resources
+E:\examen\examen\obj\Debug\examen.Properties.Resources.resources
+E:\examen\examen\obj\Debug\examen.csproj.GenerateResource.cache
+E:\examen\examen\obj\Debug\examen.csproj.CoreCompileInputs.cache
+E:\examen\examen\obj\Debug\examen.exe
+E:\examen\examen\obj\Debug\examen.pdb
